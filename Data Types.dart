@@ -11,11 +11,11 @@ void main() {
   String name = 'John Doe';
   print('Name: $name');
 
-  // Example of List data type (dynamic array)
+  // Example of List data type 
   List<String> fruits = ['Apple', 'Banana', 'Orange'];
   print('Fruits: $fruits');
 
-  // Example of Map data type (key-value pairs)
+  // Example of Map data type 
   Map<String, dynamic> person = {
     'name': 'Alice',
     'age': 30,
